@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>
+            Capitals
+        </title>
+    </head>
+    <body>
+        <table>
+           
+            <tr>
+                <td><ul>
+                    <li>India</li>
+
+
+<li>Japan</li>
+
+                    <li>USA</li>
+                    <li>England</li>
+                    <li>France</li>
+                    
+                </ul></td>
+            
+                <td><ol>
+                    <li>New Delhi</li>
+
+
+<li>Tokyo</li>
+
+                    <li>Washington DC</li>
+                    <li>London</li>
+                    <li>Paris</li>
+                    
+                </ol></td>
+            </tr>
+        </table>
+    </body>
+</html>
